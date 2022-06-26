@@ -28,6 +28,7 @@ body {
 
 .body1 {
     background-color: #1F2937;
+    display: block;
 }
 
 
@@ -84,8 +85,9 @@ body {
 .container2 {
     display: flex;
     gap: 50px;
-    justify-content: space-evenly;
+    justify-content: center;
     padding: 50px;
+
 }
 
 .subtext2 {
@@ -94,8 +96,14 @@ body {
     text-align: center;
     color: #1F2937;
     font-size: 18px;
+    display: block;
 }
 
+.group2 {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
 
 .body3 {
     background-color: #E5E7EB;
