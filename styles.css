@@ -1,0 +1,44 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerlink {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+}
+
+.bodydark {
+    background-color: #1F2937;
+}
+
+.button1 {
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: #F9FAF8;
+    width: 100px;
+    height: 30px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+h2 {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+.container {
+    width: 50%;
+    height: auto;
+}
